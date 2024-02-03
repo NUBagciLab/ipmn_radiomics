@@ -18,8 +18,11 @@
 <sup>8</sup> University of Catania, 95124 Catania CT, Italy
 
 
-- [Link to Paper](https://arxiv.org/pdf/2309.05857.pdf)
-- Diagram 
+[![Paper](http://img.shields.io/badge/paper-arxiv-FFFF00.svg)](https://arxiv.org/pdf/2309.05857.pdf)
+[![Conference](http://img.shields.io/badge/MICCAI_MLMI-2023-0000FF.svg)](https://sites.google.com/view/mlmi2023)
+[![Poster](http://img.shields.io/badge/Poster-2023-FF0000.svg)](https://sites.google.com/view/mlmi2023/poster-sessions/poster-session-2?authuser=0#h.8vektsu8by1)
+</div>
+
 ![Diagram](/img/IPMN_classification.png)
 
 
