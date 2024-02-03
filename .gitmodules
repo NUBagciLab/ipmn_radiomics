@@ -1,0 +1,3 @@
+[submodule "Classifier-Transformer-IPMN/Transformer-IPMN"]
+	path = Classifier-Transformer-IPMN/Transformer-IPMN
+	url = https://github.com/perceivelab/Transformer-IPMN.git
