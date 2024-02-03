@@ -19,7 +19,8 @@
 
 
 - [Link to Paper](https://arxiv.org/pdf/2309.05857.pdf)
-- Diagram [Diagram](/img/IPMN_classification.png)
+- Diagram 
+![Diagram](/img/IPMN_classification.png)
 
 
 ## Abstract
